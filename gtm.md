@@ -19,3 +19,7 @@ Focuses on how companies can improve their NRR by focussing on better activation
 - **Pricing & Packaging and the developer buyer**  
 https://www.linkedin.com/pulse/4-insights-pricing-packaging-from-saas-ipos-why-developer-aijaz/  
 Goes over different coherts of saas companies and how their pricing and packaging has worked  
+
+- **Prodct Market Fit**
+https://pmarchive.com/guide_to_startups_part4.html
+The classic blog post that coined the term and re-defined what startups do.
